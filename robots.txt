@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sony-rabarijaona.github.io/sitemap.xml
